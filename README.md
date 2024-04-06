@@ -48,7 +48,7 @@ Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture`
 
 <br>
 
-## Contact me:
+## 📌Contact me:
 <div>
 <a href="https://www.instagram.com/sk1zt1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:rafaelagustin007@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
